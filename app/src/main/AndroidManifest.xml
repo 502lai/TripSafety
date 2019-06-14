@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.dell.tripsafety">
 
@@ -134,6 +134,7 @@
             android:exported="true" />
 
         <activity android:name=".HelpOther.HelpFromOther" />
+
         <activity android:name=".HelpOther.HelpListActivity"></activity>
 
         <meta-data
@@ -146,6 +147,7 @@
             android:name="com.baidu.speech.SECRET_KEY"
             android:value="AzV8vED0Sur22Z1iwcjXfywdG8wbr4W0"/>
 
+>>>>>>> b3ab96207f287561ee4678147a5929568a7f21b2
     </application>
 
 </manifest>
